@@ -25,6 +25,11 @@
                                     <segue destination="PpE-qn-gfJ" kind="show" id="Dqf-yp-GGh"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yJV-FB-3mA">
+                                <rect key="frame" x="178" y="318" width="30" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Krit"/>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.95224368439227602" blue="0.66714858520136788" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
